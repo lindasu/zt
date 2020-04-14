@@ -1,0 +1,12 @@
+@charset "utf-8";
+/* CSS Document */
+
+.p1 {
+	background-image: url("../images/p1-bg1.png");
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+.card-text {
+	font-size: 80%;
+	line-height: 2;
+}
